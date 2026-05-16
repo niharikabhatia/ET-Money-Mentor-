@@ -7,6 +7,8 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/a1cd7ec1-edf0-4b95-8950-93f1bcc8d273
+
+
 Open published App: https://remix-et-money-mentor-171527645654.asia-southeast1.run.app
 
 ## Run Locally
